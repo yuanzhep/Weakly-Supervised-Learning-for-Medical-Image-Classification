@@ -1,0 +1,13 @@
+-----------------------
+---  MIL - STATS ------
+-----------------------
+ ============================================0
+reading : musk2norm.svm
+------------ MILDataSet (verbosity = 0) ------------
+Features:  max index = 166   per bag = 166  
+Bags:         total = 102       pos = 39        neg = 63   +/- ratio = 0.619048
+Instances:    total = 6598      pos = 1017      neg = 5581 max |x|^2 = 566.166
+         data_fname = musk2norm.svm
+        model_fname = 
+-----------------------------------------------------
+ ============================================
